@@ -1,0 +1,1 @@
+Auto rotating email addresses that change like an OTP code so where you almost have a 2FA authentication token if your trusted you can get the next version of that person's email if you're not trusted you don't get it at all changes every single month to prevent any kind of spam and it would be awesome
